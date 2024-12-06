@@ -1,1 +1,1 @@
-CSE422 Lab Assignments
+Artificial Intelligence Lab Assignments
